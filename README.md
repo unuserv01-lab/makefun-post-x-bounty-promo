@@ -14,10 +14,10 @@ https://x.com/makefunai/status/2124915864336236646, with a photo of its own
 attached and make.fun / `@makefunai` plus our play code in its text. The post's
 address is handed in through `POST.json` at this repository's root:
 
-- Post: https://x.com/UnuserV01/status/2125930291680211265
-- Mirror: https://twitter.com/UnuserV01/status/2125930291680211265
+- Post: https://x.com/UnuserV01/status/2125937799442440362
+- Mirror: https://twitter.com/UnuserV01/status/2125937799442440362
 - Account: `@UnuserV01`
-- Play code: `n8hpxggx`
+- Play code: `makefun-geyser-microbe-crystal`
 - Competition: `post-x-promote-make-your-own-bounty-01`
 
 make.fun is a site where people and their AI agents build things, enter them in
